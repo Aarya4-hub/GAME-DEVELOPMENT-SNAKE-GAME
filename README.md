@@ -12,12 +12,18 @@ DURATION -8 WEEKS(APRIL 20th to JUNE 20th 2025)
 
 MENTOR -NEELA SANTHOSH KUMAR
 
+
+
 📍Overview
+
+
 The classic Snake game is a foundational project in game development, ideal for beginners learning the fundamentals of graphics programming and logic-based game design. This project recreates the traditional Snake game using C++ and the SFML (Simple and Fast Multimedia Library). SFML provides an easy-to-use API for graphics, events, and timing, making it suitable for creating interactive 2D games.
 
 In this Snake game, the player controls a snake that moves around the screen collecting fruit. Each time the snake eats a fruit, it grows longer. The challenge increases as the player avoids colliding with the snake's own body. The game has basic graphics using colored tiles and sprites to represent the snake and fruit on a grid-based layout.
 
 🛠️How It Works
+
+
 The game operates on a simple loop structure involving initialization, input handling, game logic updating, and rendering.
 
 Initialization:
@@ -61,6 +67,8 @@ A clock manages timing between updates using a delay.
 The game keeps running until the window is closed by the user.
 
 📌Features
+
+
 Grid-Based Movement: The game world is divided into a tile-based grid where all elements (snake and fruit) are aligned.
 
 Wrap-Around Edges: When the snake hits the border, it reappears on the opposite side.
@@ -74,6 +82,8 @@ Keyboard Input Control: Smooth arrow key inputs allow real-time direction change
 Randomized Fruit Placement: Keeps the gameplay dynamic by placing fruits at new locations each time.
 
 📚Learning Objectives
+
+
 This project is a great way to reinforce several core programming concepts:
 
 SFML Library Usage:
