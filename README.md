@@ -110,3 +110,8 @@ Gain insight into frame timing and delay handling using SFML’s Clock.
 Code Structuring:
 Encourages clean separation between logic (e.g., Tick() function) and rendering, laying a foundation for larger game projects.
 
+
+Output
+
+![Image](https://github.com/user-attachments/assets/0b18846c-6202-4fa8-81e0-9740b0ae4bef)
+
